@@ -59,7 +59,6 @@ body {
 
 .container__imagem {
     margin: 1em 0 2em 0;
-
 }
 
 .container__caixa {
@@ -80,7 +79,6 @@ body {
     font-size: 3rem;
     color: var(--branco_principal);
     margin-bottom: 0.1em;
-
 }
 
 .descricao__texto {
@@ -116,7 +114,6 @@ body {
 .dispositivos__titulo {
     font-size: 48px;
     color: var(--branco_principal);
-
 }
 
 .lista__item {
@@ -138,8 +135,6 @@ body {
 
 .lista__link {
     padding: 5px 5px;
-    
-    
 }
 
 .rodape a {
